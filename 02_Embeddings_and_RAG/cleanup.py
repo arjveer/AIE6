@@ -1,7 +1,7 @@
 import nbformat
 
 # === CHANGE THIS to your notebook's path ===
-notebook_path = "/Users/ashurveer/Projects/MP_AI/AIE6/02_Embeddings_and_RAG/Pythonic_RAG_Assignment copy.ipynb"
+notebook_path = "/Users/ashurveer/Projects/MP_AI/AIE6/02_Embeddings_and_RAG/Pythonic_RAG_Assignment.ipynb"
 
 # Load the notebook
 with open(notebook_path, "r", encoding="utf-8") as f:
