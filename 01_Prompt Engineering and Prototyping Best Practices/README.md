@@ -37,6 +37,7 @@ Each assignment will have a few of the following categories of exercises:
 Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
+
     - Aspect Tested:
 2. Read the following paragraph and provide a concise summary of the key points…
     - Aspect Tested:
